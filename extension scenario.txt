@@ -1,0 +1,2 @@
+une personne possède un nom, un prénom et une date de naissance.
+les clients, les utilisateurs et les adminitrateurs sont des personnes.
