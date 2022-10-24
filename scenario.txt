@@ -1,0 +1,9 @@
+Un utilisateur d'un CRM a des clients et des commandes a faires pour les clients.
+Un utilisateur a un nom un courriel, un mot de passe et un droit d'accès admin ou pas.
+Un utilisateur admin peut creer de nouveau clients mais pas les utilisateurs normaux.
+Les clients ont un nom, un prenom, une entreprise, un courriel, un tel. fixe, un tel. mobile.
+Les commandes passées par l'utilisateur ont un numéro, un prix Hors Taxe, un montant de TVA, une date, un type (urgent ou non).
+L'utilisateur indique que les commandes peuvent être validées ou annulées.
+L'utilisateur indique la reférence du client sur la commande.
+L'utilisateur peut laisser des commentaires sur les clients et les commandes.
+L'utilisateur peut indiquer si un client est actif ou non.
